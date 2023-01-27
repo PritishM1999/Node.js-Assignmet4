@@ -1,0 +1,13 @@
+API -- Application interface
+
+REST -- Representational state transfer
+SOAP -- Simple Object Access protocol
+
+Graph QL --
+
+SOAP
+it hasfixed protocols
+
+
+REST - there is no protocols / Just guidelines or architecture style in any data format like JSON, XML, Text... as long as your clint and server required.
+
